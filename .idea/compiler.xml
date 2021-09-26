@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="COP3503-CS2-Fall21" />
         <module name="COP3503-CSII-Fall21" />
       </profile>
     </annotationProcessing>
