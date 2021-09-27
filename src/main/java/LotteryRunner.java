@@ -29,6 +29,7 @@ public class LotteryRunner {
 
         
         System.out.println("Beginning Test Cases");
+        System.out.println("Beginning Test Cases");
         
         System.out.println("*********************************");
                 
