@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="COP3503-CS2-Fall21" />
         <module name="COP3503-CSII-Fall21" />
+        <module name="CS2" />
       </profile>
     </annotationProcessing>
   </component>
