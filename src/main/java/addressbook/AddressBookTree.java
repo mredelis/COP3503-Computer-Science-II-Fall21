@@ -1,3 +1,9 @@
+/* Name: Edelis Molina
+ * Dr. Andrew Steinberg
+ * COP3503 Fall 2021
+ * Programming Assignment 2
+ */
+
 package addressbook;
 
 class Node<T, U> {
