@@ -3,4 +3,4 @@
 ### Programming Assignments
 
 
-For assignment directions, refer to "Assignment Directions" folder
+Refer to "Assignment Directions" folder
