@@ -34,7 +34,7 @@ public class SequenceAlignmentRunner {
         SequenceAlignment test2 = new SequenceAlignment("across", "accross");     
         test2.computeAlignment(2);
 
-        if(test2.getAlignment().compareTo("ac-ross accross") == 0)
+        if(test2.getAlignment().compareTo("a-cross accross") == 0)
         {
             System.out.println("Test 2 Passed!");
             ++pass;
@@ -61,7 +61,7 @@ public class SequenceAlignmentRunner {
         test4.computeAlignment(2);
        
         
-        if(test4.getAlignment().compareTo("runnnning runnin--g") == 0)
+        if(test4.getAlignment().compareTo("runnnning ru--nning") == 0)
         {
             System.out.println("Test 4 Passed!");
             ++pass;
@@ -75,7 +75,7 @@ public class SequenceAlignmentRunner {
         SequenceAlignment test5 = new SequenceAlignment("programming", "programmmming");       
         test5.computeAlignment(3);
         
-        if(test5.getAlignment().compareTo("programm--ing programmmming") == 0)
+        if(test5.getAlignment().compareTo("progra--mming programmmming") == 0)
         {
             System.out.println("Test 5 Passed!");
             ++pass;
